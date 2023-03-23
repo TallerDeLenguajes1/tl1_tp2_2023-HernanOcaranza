@@ -1,0 +1,6 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+No se puede ver el archivo por que esta creado en otra rama
+¿Qué diferencias nota?
+Ahora se separaron las ramas por que hubo cambios en la rama principal
+¿Qué nota?
+Ahora se unieron las ramas y se pueden ver los archivos en la rama principal
